@@ -1,0 +1,15 @@
+.bg-rojo{
+    background-color: darkred;
+}
+.bg-oro{
+    background-color: darkgoldenrod;
+}
+.bg-amarillo{
+    background-color: darkmagenta;
+}
+.border-morado{
+    background-color: orangered;
+}
+.h-200{
+    height: 200px !important;
+}
